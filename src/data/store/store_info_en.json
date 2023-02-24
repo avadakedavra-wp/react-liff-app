@@ -1,0 +1,333 @@
+{
+    "floor_f": [
+        
+        {
+            "store_name": "Yayoi",
+            "promotions": [
+                {
+                    "PromotionName": "Coming soon..",
+                    "PromotionDesc": ""
+                }
+            ],
+            "menu":[
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                },
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "store_name": "MK Restaurants",
+            "promotions": [
+                {
+                    "PromotionName": "Coming soon..",
+                    "PromotionDesc": ""
+                }
+            ],
+            "menu":[
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                },
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "store_name": "Shabu Shi",
+            "promotions": [
+                {
+                    "PromotionName": "Coming soon..",
+                    "PromotionDesc": ""
+                }
+            ],
+            "menu":[
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                },
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "store_name": "OISHI Ramen",
+            "promotions": [
+                {
+                    "PromotionName": "Coming soon..",
+                    "PromotionDesc": ""
+                }
+            ],
+            "menu":[
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                },
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "store_name": "Katsuya",
+            "promotions": [
+                {
+                    "PromotionName": "Coming soon..",
+                    "PromotionDesc": ""
+                }
+            ],
+            "menu":[
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                },
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "store_name": "Jeffer",
+            "promotions": [
+                {
+                    "PromotionName": "Coming soon..",
+                    "PromotionDesc": ""
+                }
+            ],
+            "menu":[
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                },
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                }
+            ]
+        },
+        {
+            "store_name": "Tummour",
+            "promotions": [
+                {
+                    "PromotionName": "Coming soon..",
+                    "PromotionDesc": ""
+                }
+            ],
+            "menu":[
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                },
+                {
+                    "product": "Coming soon..",
+                    "productPic": "",
+                    "price": ""
+                }
+            ]
+        }
+    ],
+    "floor_g": [
+        {
+            "store_name": "Starbucks",
+            "promotions": [
+                {
+                    "PromotionName": "Promotion Starbucks Name#1",
+                    "PromotionDesc": "PromotionDesc#1"
+                },
+                {
+                    "PromotionName": "Promotion Starbucks Name#2",
+                    "PromotionDesc": "PromotionDesc#2"
+                },
+                {
+                    "PromotionName": "Promotion Starbucks Name#3",
+                    "PromotionDesc": "PromotionDesc#3"
+                }
+            ],
+            "menu":[
+                {
+                    "product": "Late",
+                    "productPic": "../../assets/icons/cup.png",
+                    "price": "110"
+                },
+                {
+                    "product": "Americano",
+                    "productPic": "../../assets/icons/cup.png",
+                    "price": "100"
+                },
+                {
+                    "product": "Cappuccino",
+                    "productPic": "../../assets/icons/cup.png",
+                    "price": "120"
+                },
+                {
+                    "product": "Moccona",
+                    "productPic": "../../assets/icons/cup.png",
+                    "price": "110"
+                }
+            ]
+        },
+        {
+            "store_name": "mcdonald's",
+            "promotions": [
+                {
+                    "PromotionName": "Promotion mcdonald's Name#1",
+                    "PromotionDesc": "PromotionDesc#1"
+                },
+                {
+                    "PromotionName": "Promotion mcdonald's Name#2",
+                    "PromotionDesc": "PromotionDesc#2"
+                }
+            ],
+            "menu":[
+                {
+                    "product": "mcdonald's",
+                    "productPic": "Late",
+                    "price": "110"
+                },
+                {
+                    "product": "mcdonald's",
+                    "productPic": "Americano",
+                    "price": "100"
+                },
+                {
+                    "product": "mcdonald's",
+                    "productPic": "Cappuccino",
+                    "price": "120"
+                },
+                {
+                    "product": "mcdonald's",
+                    "productPic": "Moccona ",
+                    "price": "110"
+                }
+            ]
+        },
+        {
+            "store_name": "The Pizza Company",
+            "promotions": [
+                {
+                    "PromotionName": "Promotion Pizza Name#1",
+                    "PromotionDesc": "PromotionDesc#1"
+                },
+                {
+                    "PromotionName": "Promotion Pizza Name#2",
+                    "PromotionDesc": "PromotionDesc#2"
+                }
+            ],
+            "menu":[
+                {
+                    "product": "Pizza",
+                    "productPic": "Late",
+                    "price": "110"
+                },
+                {
+                    "product": "Pizza",
+                    "productPic": "Americano",
+                    "price": "100"
+                },
+                {
+                    "product": "Pizza",
+                    "productPic": "Cappuccino",
+                    "price": "120"
+                },
+                {
+                    "product": "Pizza",
+                    "productPic": "Moccona ",
+                    "price": "110"
+                }
+            ]
+        },
+        {
+            "store_name": "Santa FE",
+            "promotions": [
+                {
+                    "PromotionName": "Santa FE Name#1",
+                    "PromotionDesc": "PromotionDesc#1"
+                }
+            ],
+            "menu":[
+                {
+                    "product": "Santa FE",
+                    "productPic": "Late",
+                    "price": "110"
+                },
+                {
+                    "product": "Santa FE",
+                    "productPic": "Americano",
+                    "price": "100"
+                },
+                {
+                    "product": "Santa FE",
+                    "productPic": "Cappuccino",
+                    "price": "120"
+                },
+                {
+                    "product": "Santa FE",
+                    "productPic": "Moccona ",
+                    "price": "110"
+                }
+            ]
+        },
+        {
+            "store_name": "Swensens",
+            "promotions": [
+                {
+                    "PromotionName": "Swensens Name#1",
+                    "PromotionDesc": "PromotionDesc#1"
+                },
+                {
+                    "PromotionName": "Swensens Name#1",
+                    "PromotionDesc": "PromotionDesc#1"
+                },
+                {
+                    "PromotionName": "Swensens Name#1",
+                    "PromotionDesc": "PromotionDesc#1"
+                }
+            ],
+            "menu":[
+                {
+                    "product": "Swensens",
+                    "productPic": "Late",
+                    "price": "110"
+                },
+                {
+                    "product": "Swensens",
+                    "productPic": "Americano",
+                    "price": "100"
+                },
+                {
+                    "product": "Swensens",
+                    "productPic": "Cappuccino",
+                    "price": "120"
+                },
+                {
+                    "product": "Swensens",
+                    "productPic": "Moccona ",
+                    "price": "110"
+                }
+            ]
+        }
+    ]
+}
